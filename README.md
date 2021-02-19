@@ -20,6 +20,7 @@ Use Javascript to create data visualizations that are attractive, accessible, an
 ![gauge chart](https://user-images.githubusercontent.com/73972332/108570488-e409c700-72c2-11eb-9d29-2d5500ebad07.png)
 
 * Deliverable 4: Customize the Dashboard
+* 
 [View the Customized Dashboard](https://angienoelhaverly.github.io/Button_Biology/)
 
 ## Summary
