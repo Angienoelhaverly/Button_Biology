@@ -8,8 +8,12 @@ Use Javascript to create data visualizations that are attractive, accessible, an
 
 ## Results
 * Deliverable 1: Create a Horizontal Bar Chart
+![horizontal bar chart](https://user-images.githubusercontent.com/73972332/108570455-cc324300-72c2-11eb-9857-3f2afb25cf2c.png)
+
 * Deliverable 2: Create a Bubble Chart
 * Deliverable 3: Create a Gauge Chart
+![gauge chart](https://user-images.githubusercontent.com/73972332/108570488-e409c700-72c2-11eb-9d29-2d5500ebad07.png)
+
 * Deliverable 4: Customize the Dashboard
 
 ## Summary
