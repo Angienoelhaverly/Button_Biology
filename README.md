@@ -12,4 +12,4 @@ Create a panel for demographic information then create a way to visualize the ba
 * Deliverable 4: Customize the Dashboard
 
 ## Summary
-The project was designed to demonstrate the use of Javascript, Plotly, D3.js and Bootstrap. The source data describes bacterial cultures sampled from 153 volunteers. Test subjects may chose a test subject's ID number from a dropdown menu to see a variety of data about the collected bacteria. 
+The project was designed to demonstrate the use of Javascript, Plotly, D3.js and Bootstrap. The source data describes bacterial cultures sampled from 153 volunteers. Test subjects may chose a test subject's ID number from a dropdown menu to see a variety of data about the collected bacteria such as top bacteria found, frequency of washing, and bacteria cultures per sample. 
