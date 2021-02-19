@@ -10,4 +10,6 @@ Create a panel for demographic information then create a way to visualize the ba
 * Deliverable 2: Create a Bubble Chart
 * Deliverable 3: Create a Gauge Chart
 * Deliverable 4: Customize the Dashboard
+
 ## Summary
+The project was designed to demonstrate the use of Javascript, Plotly, D3.js and Bootstrap. The source data describes bacterial cultures sampled from 153 volunteers. Test subjects may chose a test subject's ID number from a dropdown menu to see a variety of data about the collected bacteria. 
